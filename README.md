@@ -78,6 +78,8 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
 Click the cds.lib file and save the file by clicking on Save option 
+![Screenshot (248)](https://github.com/user-attachments/assets/4a5940ab-cc27-4122-bd39-39c2f9dfc8b1)
+
 
 ### Fig 4:cds.lib file Creation
 
@@ -100,6 +102,8 @@ Left side you can see the HDL files. Right side of the window has worklib and sn
 Worklib is the directory where all the compiled codes are stored while Snapshot will have output of elaboration which in turn goes for simulation .
 
 To perform the function simulation, the following three steps are involved Compilation, Elaboration and Simulation. 
+![Screenshot (239)](https://github.com/user-attachments/assets/477a16a6-f97c-4711-88a2-7000928aa794)
+
 
 ### Fig 6: Nclaunch Window
 
@@ -161,6 +165,7 @@ After elaboration the file will come under snapshot. Select the test bench and s
 
 ## Fig 8: Elaboration Launch Option
 
+
 ## Step 3: Simulation: 
 
 – Simulate with the given test vectors over a period of time to observe the output behaviour. 
@@ -176,8 +181,12 @@ Steps for simulation – Run the simulation command with simulator options
 ## Fig 9: Design Browser window for simulation
 
 ## Fig 10:Simulation Waveform Window
+![Screenshot (250)](https://github.com/user-attachments/assets/a8d29721-ce43-43e6-a94f-b21ed0486d05)
+
 
 ## Fig 11:Simulation Waveform Window
+![Screenshot (253)](https://github.com/user-attachments/assets/a461f55b-f77b-4ac3-b629-2c58265edd55)
+
 
 ### Result
 
