@@ -173,7 +173,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
 ## Fig 8: Elaboration Launch Option
-![image](https://github.com/user-attachments/assets/b8f981b3-45a4-40de-a6ba-6bd76719e2b6)
+![Screenshot (274)](https://github.com/user-attachments/assets/57264d40-191d-410f-a1fc-19b3c8a34102)
 
 
 ## Step 3: Simulation: 
@@ -187,7 +187,7 @@ Outputs: Simulation log file, waveforms for debugging
 Simulation allow to dump design and test bench signals into a waveform 
 
 Steps for simulation – Run the simulation command with simulator options
-![Screenshot (274)](https://github.com/user-attachments/assets/57264d40-191d-410f-a1fc-19b3c8a34102)
+
 
 
 ## Fig 9: Design Browser window for simulation
