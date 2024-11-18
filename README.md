@@ -193,12 +193,12 @@ Steps for simulation – Run the simulation command with simulator options
 ![Screenshot (251)](https://github.com/user-attachments/assets/a268729b-9feb-432f-8313-4f640b771e44)
 
 ## Fig 10:Simulation Waveform Window
-![Screenshot (250)](https://github.com/user-attachments/assets/a8d29721-ce43-43e6-a94f-b21ed0486d05)
+![Screenshot (252)](https://github.com/user-attachments/assets/ac2e2854-ce0c-41a0-9965-ce6c816b48f6)
 
 
 ## Fig 11:Simulation Waveform Window
-![Screenshot (252)](https://github.com/user-attachments/assets/ac2e2854-ce0c-41a0-9965-ce6c816b48f6)
 
+![Screenshot (250)](https://github.com/user-attachments/assets/a8d29721-ce43-43e6-a94f-b21ed0486d05)
 
 
 ### Result
