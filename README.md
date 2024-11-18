@@ -59,6 +59,8 @@ source /cadence/install/cshrc (mention the path of the tools)
 (The path of cshrc could vary depending on the installation destination)
       
 After this you can see the window like below 
+![Screenshot (269)](https://github.com/user-attachments/assets/bffece00-95bc-4151-85d4-e9df95578e89)
+
 
 ### Fig 2: Invoke the Cadence Environment
 
@@ -71,6 +73,7 @@ or
 •linux:/> nclaunch& // On subsequent calls to NCVERILOG 
 
 
+
 It will invoke the nclaunch window for functional simulation we can compile,elaborate and simulate it using Multiple Step .
 
 ### Fig 3: Setting Multi-step simulation
@@ -78,7 +81,8 @@ It will invoke the nclaunch window for functional simulation we can compile,elab
 Select Multiple Step and then select “Create cds.lib File” as shown in below figure 
 
 Click the cds.lib file and save the file by clicking on Save option 
-![Screenshot (248)](https://github.com/user-attachments/assets/4a5940ab-cc27-4122-bd39-39c2f9dfc8b1)
+![Screenshot (271)](https://github.com/user-attachments/assets/7debf16f-6553-4988-a8bb-40a08c5b2fce)
+
 
 
 ### Fig 4:cds.lib file Creation
@@ -91,7 +95,8 @@ We are simulating verilog design without using any libraries
 
 A Click “OK” in the “nclaunch: Open Design Directory” window as shown in below figure 
 
-![image](https://github.com/user-attachments/assets/d5202b97-ee5c-4e0e-9eaf-5f3fa733e546)
+![Screenshot (272)](https://github.com/user-attachments/assets/354d849f-63cd-44cc-921a-6d5ca010a87e)
+
 
 ### Fig 5: Selection of Don’t include any libraries
 
@@ -114,6 +119,8 @@ To perform the function simulation, the following three steps are involved Compi
 Inputs: Supplied are Verilog design and test bench codes 
 
 Outputs: Compiled database created in mapped library if successful, generates report else error reported in log file 
+![Screenshot (273)](https://github.com/user-attachments/assets/b546d6af-55d1-45b9-91f6-03e539601a14)
+
 
 ## 	Steps for compilation: 
 
@@ -146,6 +153,8 @@ To check the port connections in hierarchical design
 Inputs: Top level design / test bench Verilog codes 
 
 Outputs: Elaborate database updated in mapped library if successful, generates report else error reported in log file 
+![image](https://github.com/user-attachments/assets/a8212c11-ef4e-4079-8398-a789e5cf98f5)
+
 
 ## 	Steps for elaboration 
 
@@ -164,6 +173,7 @@ Outputs: Elaborate database updated in mapped library if successful, generates r
 After elaboration the file will come under snapshot. Select the test bench and simulate it.
 
 ## Fig 8: Elaboration Launch Option
+![Uploading image.png…]()
 
 
 ## Step 3: Simulation: 
