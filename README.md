@@ -153,7 +153,7 @@ To check the port connections in hierarchical design
 Inputs: Top level design / test bench Verilog codes 
 
 Outputs: Elaborate database updated in mapped library if successful, generates report else error reported in log file 
-![WhatsApp Image 2024-11-25 at 11 10 44_13ebf9f7](https://github.com/user-attachments/assets/d5c3f9cb-40a8-4ce3-9e09-92d7e008952a)
+
 
 
 
